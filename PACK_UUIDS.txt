@@ -1,0 +1,5 @@
+Behavior Pack Header: c0509271-2430-4f5e-b07b-3c39b899afd0
+Behavior Pack Data: 1fd32686-7c98-4140-ad9b-c841aececa3a
+Behavior Pack Script: 2bf7c125-02f6-44c7-a2eb-04f400bf6a8b
+Resource Pack Header: 59c7bc6d-1f77-45bc-a597-ee6cf773f2d1
+Resource Pack Module: db00548c-a828-4730-8412-1e50caffbed3

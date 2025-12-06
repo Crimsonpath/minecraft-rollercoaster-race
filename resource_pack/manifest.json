@@ -3,14 +3,14 @@
   "header": {
     "name": "Rollercoaster Race Resources",
     "description": "Custom audio and textures for the Rollercoaster Race experience",
-    "uuid": "d4e5f6a7-b8c9-0123-def4-567890abcdef",
+    "uuid": "59c7bc6d-1f77-45bc-a597-ee6cf773f2d1",
     "version": [1, 0, 0],
     "min_engine_version": [1, 20, 0]
   },
   "modules": [
     {
       "type": "resources",
-      "uuid": "e5f6a7b8-c9d0-1234-ef56-7890abcdef01",
+      "uuid": "db00548c-a828-4730-8412-1e50caffbed3",
       "version": [1, 0, 0]
     }
   ]
