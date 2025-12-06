@@ -1,0 +1,14 @@
+# Pack Icon
+
+To add a custom icon to this resource pack:
+
+1. Create a 256x256 PNG image named `pack_icon.png`
+2. Place it in the root of the resource_pack folder
+3. The icon will appear in the Minecraft resource pack selection screen
+
+Suggested icon design:
+- A rollercoaster track with a minecart
+- Colorful racing theme
+- Bold, recognizable design
+
+You can use the generated textures as inspiration or create your own custom icon.

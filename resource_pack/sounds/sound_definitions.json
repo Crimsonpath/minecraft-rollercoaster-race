@@ -1,0 +1,65 @@
+{
+  "format_version": "1.14.0",
+  "sound_definitions": {
+    "rollercoaster.welcome": {
+      "category": "ui",
+      "sounds": [
+        {
+          "name": "sounds/rollercoaster/welcome",
+          "volume": 1.0,
+          "pitch": 1.0
+        }
+      ]
+    },
+    "rollercoaster.countdown.3": {
+      "category": "ui",
+      "sounds": [
+        {
+          "name": "sounds/rollercoaster/countdown_3",
+          "volume": 1.0,
+          "pitch": 1.0
+        }
+      ]
+    },
+    "rollercoaster.countdown.2": {
+      "category": "ui",
+      "sounds": [
+        {
+          "name": "sounds/rollercoaster/countdown_2",
+          "volume": 1.0,
+          "pitch": 1.0
+        }
+      ]
+    },
+    "rollercoaster.countdown.1": {
+      "category": "ui",
+      "sounds": [
+        {
+          "name": "sounds/rollercoaster/countdown_1",
+          "volume": 1.0,
+          "pitch": 1.0
+        }
+      ]
+    },
+    "rollercoaster.countdown.go": {
+      "category": "ui",
+      "sounds": [
+        {
+          "name": "sounds/rollercoaster/countdown_go",
+          "volume": 1.0,
+          "pitch": 1.0
+        }
+      ]
+    },
+    "rollercoaster.victory": {
+      "category": "ui",
+      "sounds": [
+        {
+          "name": "sounds/rollercoaster/victory",
+          "volume": 1.0,
+          "pitch": 1.0
+        }
+      ]
+    }
+  }
+}
