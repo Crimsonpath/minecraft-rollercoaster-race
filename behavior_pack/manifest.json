@@ -1,8 +1,8 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Rollercoaster Race",
-    "description": "Interactive rollercoaster racing with player dialogues and instructions",
+    "name": "Manus Rollercoaster Race BP",
+    "description": "AI-Enhanced Rollercoaster Racing - Behavior Pack with Interactive Dialogues",
     "uuid": "c0509271-2430-4f5e-b07b-3c39b899afd0",
     "version": [1, 0, 0],
     "min_engine_version": [1, 20, 0]
